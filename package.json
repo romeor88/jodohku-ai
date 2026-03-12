@@ -1,0 +1,13 @@
+{
+  "name": "jodohku-ai",
+  "version": "1.0.0",
+  "description": "Jodohku.ai – AI-powered Indonesian jodoh compatibility app",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  }
+}
